@@ -5,10 +5,10 @@ A few .py files for creating graphs from CSV files.
 Each .py file is associated with a different type of graph.
 
 ### Instructions
--Run the .py file for the graph type of your choice.
--A file chooser window will open.
--Select the CSV file with your data.
--A new window will open with your Graph
+- Run the .py file for the graph type of your choice.
+- A file chooser window will open.
+- Select the CSV file with your data.
+- A new window will open with your Graph
 
 
 ### .CSV File Layout
