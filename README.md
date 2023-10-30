@@ -1,4 +1,3 @@
-# Graphs
 # Python Graphs
 ----------------------
 
