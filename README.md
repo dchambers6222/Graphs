@@ -11,7 +11,7 @@ Each .py file is associated with a different type of graph.
 - A new window will open with your Graph
 
 
-### .CSV File Layout
+#### .CSV File Layout Requirements
 ##### BarGraph
 Your *CSV* file **must** be laid out in this format:
     x1,y1
