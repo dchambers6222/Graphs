@@ -10,6 +10,7 @@ __Instructions__
 -A new window will open with your Graph
 
 __CSV File Layout__
+
     _BarGraph_
     Your CVS file must be laid out in this format:
         x1,y1
